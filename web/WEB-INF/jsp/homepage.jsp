@@ -53,7 +53,7 @@
     <%--</ul>--%>
     <ul class="layui-nav right" lay-filter="">
         <li class="layui-nav-item">
-            <a href="javascript:;"><img src="http://m.zhengjinfan.cn/images/0.jpg" class="layui-nav-img">${sessionScope.ad.a_username}</a>
+            <a href="javascript:;">${sessionScope.ad.a_username}</a>
             <dl class="layui-nav-child"> <!-- 二级菜单 -->
                 <dd><a onclick="x_admin_show('切换帐号','loginOut')">切换帐号</a></dd>
                 <dd><a href="/loginOut">退出</a></dd>
@@ -103,13 +103,13 @@
                         </a>
                     </li >
 
-                    <li>
-                        <a _href="/findClassStudent">
-                            <%--点击在右侧出现动态的Tab--%>
-                            <i class="iconfont">&#xe6a7;</i>
-                            <cite>班级学生</cite>
-                        </a>
-                    </li >
+<%--                    <li>--%>
+<%--                        <a _href="/findClassStudent">--%>
+<%--                            &lt;%&ndash;点击在右侧出现动态的Tab&ndash;%&gt;--%>
+<%--                            <i class="iconfont">&#xe6a7;</i>--%>
+<%--                            <cite>班级学生</cite>--%>
+<%--                        </a>--%>
+<%--                    </li >--%>
                 </ul>
             </li>
 
@@ -130,15 +130,15 @@
                     </li >
                 </ul>
 
-                <ul class="sub-menu">
-                    <li>
-                        <a _href="/findDormitoryStudent">
-                            <%--点击在右侧出现动态的Tab--%>
-                            <i class="iconfont">&#xe6a7;</i>
-                            <cite>人员信息</cite>
-                        </a>
-                    </li >
-                </ul>
+<%--                <ul class="sub-menu">--%>
+<%--                    <li>--%>
+<%--                        <a _href="/findDormitoryStudent">--%>
+<%--                            &lt;%&ndash;点击在右侧出现动态的Tab&ndash;%&gt;--%>
+<%--                            <i class="iconfont">&#xe6a7;</i>--%>
+<%--                            <cite>人员信息</cite>--%>
+<%--                        </a>--%>
+<%--                    </li >--%>
+<%--                </ul>--%>
 
                 <ul class="sub-menu">
                     <li>
@@ -261,7 +261,7 @@
 <!-- 中部结束 -->
 <!-- 底部开始 -->
 <div class="footer">
-    <div class="copyright">Copyright ©2019-2020 版权所有</div>
+    <div class="copyright">2019105380248</div>
 </div>
 <!-- 底部结束 -->
 
