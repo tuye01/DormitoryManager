@@ -7,11 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c950e1df-adaf-4f90-9202-51a6e8067305" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dormitorySystem_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.40-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/META-INF/dormitorySystem.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dormitorySystem/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dormitorySystem/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itheima/po/DormRepair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itheima/po/DormRepair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.properties" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,22 +44,6 @@
       </path>
     </expand>
     <select />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="187">
-                <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -157,6 +145,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand />
@@ -168,6 +159,7 @@
     <option name="width" value="1378" />
     <option name="height" value="725" />
   </component>
+  <component name="ProjectId" id="2H6wFyMY3rxbS6qXE7uSAVDAE2F" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -197,6 +189,9 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -205,12 +200,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562417972561" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Student_dorm_System" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/osm" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -220,6 +217,12 @@
       <recent name="E:\IDEA-File\dormitorySystem\web\images" />
       <recent name="E:\IDEA-File\dormitorySystem\web\WEB-INF" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaProject\DormitoryManager\lib" />
+      <recent name="E:\IDEA-File\dormitorySystem\web\layui_exts" />
+      <recent name="E:\IDEA-File\dormitorySystem\web\WEB-INF\jsp" />
+      <recent name="E:\IDEA-File\dormitorySystem\web\images" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.itheima.util" />
       <recent name="com.itheima.service.impl" />
@@ -227,23 +230,6 @@
       <recent name="com.itheima.dao" />
       <recent name="com.itheima.controller" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IDEA-File\dormitorySystem\web\layui_exts" />
-      <recent name="E:\IDEA-File\dormitorySystem\web\WEB-INF\jsp" />
-      <recent name="E:\IDEA-File\dormitorySystem\web\images" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -266,6 +252,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -274,6 +261,7 @@
       </method>
     </configuration>
     <configuration name="dormitorySystem" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
@@ -325,6 +313,21 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -357,6 +360,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -426,6 +430,15 @@
       <workItem from="1559658602138" duration="3925000" />
       <workItem from="1560590403321" duration="3685000" />
       <workItem from="1562410239127" duration="6992000" />
+      <workItem from="1667618759869" duration="4314000" />
+      <workItem from="1667996845923" duration="1259000" />
+      <workItem from="1668213878467" duration="2539000" />
+      <workItem from="1669525087883" duration="184000" />
+      <workItem from="1670468670408" duration="5499000" />
+      <workItem from="1670489083360" duration="612000" />
+      <workItem from="1672210097564" duration="1577000" />
+      <workItem from="1675155083248" duration="429000" />
+      <workItem from="1678432951529" duration="944000" />
     </task>
     <servers />
   </component>
@@ -475,7 +488,18 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/DormCleanDao.xml" />
